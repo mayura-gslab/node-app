@@ -2,13 +2,11 @@
   "name": "devconnector",
   "version": "1.0.0",
   "description": "socio network",
-  "main": "server1.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server",
     "server": "nodemon server"
   },
-  "author": "Mayura",
-  "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^3.3.1",
