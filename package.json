@@ -2,7 +2,7 @@
   "name": "devconnector",
   "version": "1.0.0",
   "description": "socio network",
-  "main": "server.js",
+  "main": "server1.js",
   "scripts": {
     "start": "node server",
     "server": "nodemon server"
